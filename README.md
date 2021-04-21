@@ -18,7 +18,6 @@ https://github.com/timotheekurniawan/emotion_recognition/blob/master/inceptionre
 8. InceptionResNet architecture with oversampling of dataset
 https://github.com/timotheekurniawan/emotion_recognition/blob/master/inceptionresnet_oversampling.ipynb
 9. InceptionResNet architecture with class weights method
-
 https://github.com/timotheekurniawan/emotion_recognition/blob/master/fer2013_inceptionnet_classweights.ipynb
 
 For the final version of our model, we decided to use (9) InceptionResNet architecture with class weights method, which in the actual implementation, gives us the best results.
