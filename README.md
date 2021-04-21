@@ -22,3 +22,8 @@ https://github.com/timotheekurniawan/emotion_recognition/blob/master/fer2013_inc
 
 For the final version of our model, we decided to use (9) InceptionResNet architecture with class weights method, which in the actual implementation, gives us the best results.
 This can be found https://github.com/timotheekurniawan/emotion_recognition/blob/master/v2_inception_classweights.ipynb
+
+Other files:
+1. trained_models: all the saved models from training
+2. camera_face_detection.ipnyb: demonstration of the facial detection with desktop camera
+3. haarcascade_frontalface_default.xml : 
