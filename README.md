@@ -27,3 +27,4 @@ Other files:
 1. trained_models: all the saved models from training
 2. camera_face_detection.ipnyb: demonstration of the facial detection with desktop camera
 3. haarcascade_frontalface_default.xml : 
+
