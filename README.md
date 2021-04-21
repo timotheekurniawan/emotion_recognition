@@ -28,3 +28,4 @@ Other files:
 2. camera_face_detection.ipnyb: demonstration of the facial detection with desktop camera
 3. haarcascade_frontalface_default.xml : 
 
+![Capture1](https://user-images.githubusercontent.com/61657963/115520010-4cbdf180-a2bc-11eb-8966-2e02d4d30c42.JPG)
