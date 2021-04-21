@@ -25,7 +25,7 @@ This can be found https://github.com/timotheekurniawan/emotion_recognition/blob/
 
 Other files:
 1. trained_models: all the saved models from training
-2. camera_face_detection.ipnyb: demonstration of the facial detection with desktop camera
-3. haarcascade_frontalface_default.xml : 
+2. camera_face_detection.ipnyb: demonstration of the facial detection with desktop camera using OpenCV
+3. haarcascade_frontalface_default.xml : Haar Cascade Classifier to detect objects (faces in our case)
 
 ![Capture1](https://user-images.githubusercontent.com/61657963/115520010-4cbdf180-a2bc-11eb-8966-2e02d4d30c42.JPG)
