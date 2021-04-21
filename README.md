@@ -3,8 +3,8 @@
 Github Repository for Group 1's COMP3359 Project.
 
 Group Members:
-Marco Brian Widjaja (UID: 3035493024)
-Timothee Wirasaputra Kurniawan (UID: 3035663069)
+- Marco Brian Widjaja (UID: 3035493024)
+- Timothee Wirasaputra Kurniawan (UID: 3035663069)
 
 This repository consists of all the Jupyter Notebooks/Google Colabs we ran for testing and experimenting on various models for our project. Basically, these were the models we experimented:
 
