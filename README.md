@@ -36,3 +36,7 @@ Other files:
 3. haarcascade_frontalface_default.xml : Haar Cascade Classifier to detect objects (faces in our case)
 
 ![Capture1](https://user-images.githubusercontent.com/61657963/115520010-4cbdf180-a2bc-11eb-8966-2e02d4d30c42.JPG)
+
+
+https://user-images.githubusercontent.com/61657963/150637149-93fe9cd2-a35b-419f-a94c-df0909f7d6bb.mp4
+
